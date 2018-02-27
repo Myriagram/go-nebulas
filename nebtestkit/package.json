@@ -1,0 +1,24 @@
+{
+  "name": "nebtestkit",
+  "version": "0.1.0",
+  "description": "Neb Test Kit",
+  "author": "nebulas",
+  "license": "LGPL-3.0",
+  "keywords": [
+    "neb",
+    "test",
+    "kit"
+  ],
+  "devDependencies": {
+    "chai": "^3.0.0"
+  },
+  "dependencies": {
+    "bignumber.js": "*",
+    "node-schedule": "^1.3.0",
+    "request": "*",
+    "request-promise": "*",
+    "shelljs": "^0.7.8",
+    "sync-request": "^4.1.0",
+    "system-sleep": "^1.3.6"
+  }
+}
